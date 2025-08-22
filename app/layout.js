@@ -45,6 +45,18 @@ export default function RootLayout({ children }) {
         <Topbar />
         <Navbar />
         {children}
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-EE09BNFTEP"
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-EE09BNFTEP');
+          `}
+        </Script>
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
