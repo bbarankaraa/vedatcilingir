@@ -7,7 +7,7 @@ export const metadata = {
     "Eyüp ve çevresinde 7/24 çilingir hizmetleri: oto çilingir, kasa çilingir, kapı tamiri, göbek değişimi.",
   keywords: "çilingir, hizmetler, eyüp çilingir, alibeyköy çilingir",
   alternates: {
-    canonical: "https://www.5leventcilingirr.com/hizmetler",
+    canonical: "https://www.5leventvipcilingir.com/hizmetler",
   },
 };
 const SERVICES = [

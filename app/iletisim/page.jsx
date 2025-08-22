@@ -6,7 +6,7 @@ export const metadata = {
   description: "Eyüp ve çevresinde 7/24 çilingir hizmetimiz için iletişime geçin.",
   keywords: "çilingir, iletişim, eyüp çilingir, alibeyköy çilingir",
   alternates: {
-    canonical: "https://www.5leventcilingirr.com/iletisim",
+    canonical: "https://www.5leventvipcilingir.com/iletisim",
   },
 };
 const ContactPage = () => {

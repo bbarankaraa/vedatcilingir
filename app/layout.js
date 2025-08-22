@@ -52,7 +52,7 @@ export default function RootLayout({ children }) {
               "@context": "https://schema.org",
               "@type": "LocalBusiness",
               name: "5 Levent Çilingir",
-              url: "https://www.5leventcilingirr.com",
+              url: "https://www.5leventvipcilingir.com",
               telephone: ["+90 535 950 16 82", "+90 539 736 96 82"],
               address: {
                 "@type": "PostalAddress",

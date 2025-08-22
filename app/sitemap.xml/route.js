@@ -12,7 +12,7 @@ export async function GET() {
       .map(
         (url) => `
       <url>
-        <loc>https://www.5leventcilingirr.com/${url}</loc>
+        <loc>https://www.5leventvipcilingir.com/${url}</loc>
         <lastmod>${new Date().toISOString()}</lastmod>
       </url>`
       )

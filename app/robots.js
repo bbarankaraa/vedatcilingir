@@ -7,6 +7,6 @@ export default function robots() {
         disallow: ["/admin", "/privacy"],
       },
     ],
-    sitemap: "https://www.5leventcilingirr.com/sitemap.xml",
+    sitemap: "https://www.5leventvipcilingir.com/sitemap.xml",
   };
 }

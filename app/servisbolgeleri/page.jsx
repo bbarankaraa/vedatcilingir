@@ -6,7 +6,7 @@ export const metadata = {
     "5 Levent Çilingir, Eyüp, Alibeyköy, Çırçır, Mecidiyeköy ve çevresinde 7/24 çilingir hizmeti sunar. Hızlı ve güvenilir çözümler.",
   keywords: "çilingir, servis bölgeleri, eyüp çilingir, alibeyköy çilingir, çırçır çilingir, mecidiyeköy çilingir",
   alternates: {
-    canonical: "https://www.5leventcilingirr.com/servisbolgeleri",
+    canonical: "https://www.5leventvipcilingir.com/servisbolgeleri",
   },
 };
 
