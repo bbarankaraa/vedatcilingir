@@ -17,7 +17,7 @@ const toTitleCase = (str) =>
 
 const AREAS = {
   mahalleler: [
-    "libeyköy mah",
+    "Alibeyköy mah",
     "emniyettepe mah",
     "esentepe mah",
     "guzeltepe mah",
