@@ -5,6 +5,7 @@ import Topbar from "@/components/Topbar/Topbar";
 import ActionButtons from "@/components/ActionButtons/ActionButtons";
 import WPButton from "@/components/WPButton/WPButton";
 import { siteMetadata } from "@/lib/siteMetadata";
+import Script from "next/script";
 
 export const metadata = {
   title: {
